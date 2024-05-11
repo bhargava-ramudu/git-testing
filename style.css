@@ -1,0 +1,21 @@
+div {
+    color: blue;
+    background-color: green;
+}
+
+.div2 {
+    background-color: violet;
+    color: red;
+    font-size: 25px;
+}
+
+
+#div3 {
+    color: yellow;
+    background-color: chartreuse;
+}
+
+
+@media screen {
+    
+}
